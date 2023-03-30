@@ -1,0 +1,40 @@
+
+.container{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  min-width: 0vw;
+  border: 2px solid blue;
+ margin-left: 10vw;
+ margin-right: 10vw;
+ margin-top: 2vw;
+ border-radius: 2vw;
+ 
+ 
+}
+h4{
+  font-size: 25px;
+}
+.search{
+  align-items: center;
+  margin: 3vw;
+  min-width: 0vw;
+  
+  
+}
+.sort{
+  margin:1vw;
+  min-width: 0vw;
+}
+
+
+input{
+  margin: 1vw;
+  font-size: large;
+  min-width: 0vw;
+}
+.img{
+  max-width: 13vw;
+  min-width: 0vw;
+}
